@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Home/Desktop/area de trabalho 1 (1)/SLADE NOVINHO/HG/plugins/CORE-NEW.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Home/Desktop/area de trabalho 1 (1)/SLADE NOVINHO/HG/server.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Home/Desktop/area de trabalho 1 (1)/SLADE NOVINHO/HG/plugins/LuckPerms-Bukkit-5.4.52.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Home/Downloads/spigot-1.8.8-R0.1-SNAPSHOT-latest.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Home/Desktop/area de trabalho 1 (1)/NOVO SLADE V2/ARENA/plugins/PlaceholderAPI-2.11.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Home/Downloads/lombok.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Home/Desktop/area de trabalho 1 (1)/NOVO SLADE V2/ARENA/plugins/TAB.v4.0.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Home/Desktop/area de trabalho 1 (1)/NOVO SLADE V2/HG/plugins/Vault (2).jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

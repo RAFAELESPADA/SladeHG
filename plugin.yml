@@ -1,0 +1,41 @@
+name: HG
+author: zEnderX5_ , Rafael Auler
+version: 1.0
+main: me.VideoSRC.Main
+depend: [Vault]
+commands:
+  start:
+  kits:
+  kit:
+  help:
+  toggle:
+  ip:
+  s:
+  help:
+  v:
+  vanish:
+  admin:
+  tag:
+  givecoins:
+  jogo:
+  feast:
+  pvp:
+  togglekit:
+  forcefeast:
+  tp:
+  specs:
+  cleardrops:
+  tpall:
+  invencibilidade:
+  tempo:
+  pregame:
+  tell:
+  ir:
+  inv:
+  arena:
+  watch:
+  dano:
+  skit:
+  membro:
+  
+  
